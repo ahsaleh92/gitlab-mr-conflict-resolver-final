@@ -1,0 +1,15 @@
+# Python Dependencies for ACI NDO Drift Detection and Remediation
+
+# Core dependencies
+PyYAML>=6.0
+requests>=2.28.0
+urllib3>=1.26.0
+
+# Utility libraries
+python-dateutil>=2.8.0
+
+# Git operations for MR auto-fix
+GitPython>=3.1.0
+
+# GitLab API client for MR auto-fix
+python-gitlab>=3.0.0
